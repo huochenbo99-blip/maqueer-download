@@ -6,13 +6,13 @@
   "assets": {
     "arm64": {
       "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.0/maqueer-v1.4.0-arm64.apk",
-      "sha256": "d525f901c8bbeb4b998324e735c8ffbd05cae173b9dbb96c4a0b9b75c3eeea29",
-      "size": 22127782
+      "sha256": "f58c47fc1d14d94b958089a4280ce89b7069dc0c0eff206aa0f626b352716d26",
+      "size": 22128022
     },
     "universal": {
       "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.0/maqueer-v1.4.0-universal.apk",
-      "sha256": "e09cb5006e659673dcfe0aa8e3473c886d44d35bfe39054f6d61f71ceaf8119c",
-      "size": 62138640
+      "sha256": "05c53c617b59fd4124cdc70c72c834fe8b67c551b51303c0d44890e76090232a",
+      "size": 62138880
     }
   }
 }
