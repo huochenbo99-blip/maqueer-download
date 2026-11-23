@@ -1,0 +1,18 @@
+{
+  "version": "1.4.0",
+  "date": "2026-11-23",
+  "notes": "App 内检查更新；校园卡充值（学校官方收银台）与账单流水；2×2、2×4、4×4 桌面课表小插件；课前 30/15 分钟上课提醒，可自定义开关；隐私政策与权限说明更新。",
+  "page_url": "https://github.com/huochenbo99-blip/maqueer-download/releases/tag/v1.4.0",
+  "assets": {
+    "arm64": {
+      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.0/maqueer-v1.4.0-arm64.apk",
+      "sha256": "d525f901c8bbeb4b998324e735c8ffbd05cae173b9dbb96c4a0b9b75c3eeea29",
+      "size": 22127782
+    },
+    "universal": {
+      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.0/maqueer-v1.4.0-universal.apk",
+      "sha256": "e09cb5006e659673dcfe0aa8e3473c886d44d35bfe39054f6d61f71ceaf8119c",
+      "size": 62138640
+    }
+  }
+}
