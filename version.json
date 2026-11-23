@@ -1,18 +1,18 @@
 {
-  "version": "1.4.0",
-  "date": "2026-11-23",
-  "notes": "App 内检查更新；校园卡充值（学校官方收银台）与账单流水；2×2、2×4、4×4 桌面课表小插件；课前 30/15 分钟上课提醒，可自定义开关；隐私政策与权限说明更新。",
-  "page_url": "https://github.com/huochenbo99-blip/maqueer-download/releases/tag/v1.4.0",
+  "version": "1.4.2",
+  "date": "2026-11-24",
+  "notes": "课表样式调整：删除课程块左侧色条；课程名称加粗，长课程名按高度自动换行；教室信息字号更小、更弱化；首页今日课程同步调整。更新源优先 Gitee，国内下载速度快。",
+  "page_url": "https://gitee.com/hcb0007/maqueer-download/releases",
   "assets": {
     "arm64": {
-      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.0/maqueer-v1.4.0-arm64.apk",
-      "sha256": "f2176cb85681d5a6daf4c32db9e1e182dd43e1139b45a9fbde9f47bf34931705",
+      "url": "https://gitee.com/hcb0007/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-arm64.apk",
+      "sha256": "1c3588fdafc6416b3c62d7e23010262e58437ce3be1eaa47d99f944e9d6a20bd",
       "size": 22128022
     },
     "universal": {
-      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.0/maqueer-v1.4.0-universal.apk",
-      "sha256": "47d809dd80f8e6b20cf286386194d1557587f3f5b0d830e41e22ee0d4516a570",
-      "size": 62155264
+      "url": "https://gitee.com/hcb0007/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-universal.apk",
+      "sha256": "40417b06bc7d321dce844ee5ab95eac3b0a8f7415aac950183b475efbb77117e",
+      "size": 62155268
     }
   }
 }
