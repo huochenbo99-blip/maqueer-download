@@ -1,16 +1,16 @@
 {
   "version": "1.4.2",
   "date": "2026-11-24",
-  "notes": "课表样式调整：删除课程块左侧色条；课程名称加粗，长课程名按高度自动换行；教室信息字号更小、更弱化；首页今日课程同步调整。更新源优先 Gitee，国内下载速度快。",
-  "page_url": "https://gitee.com/hcb0007/maqueer-download/releases",
+  "notes": "## 麻雀儿 v1.4.2\n\n- 课表样式调整：删除课程块左侧色条\n- 课程名称加粗；长课程名按可用高度自动换行\n- 教室信息字号更小、透明度更低，弱化显示\n- 首页「今日课程」同步去掉左侧色条并弱化教室信息\n- 更新源仍优先 Gitee，国内下载速度快\n",
+  "page_url": "https://github.com/huochenbo99-blip/maqueer-download/releases/tag/v1.4.2",
   "assets": {
     "arm64": {
-      "url": "https://gitee.com/hcb0007/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-arm64.apk",
+      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-arm64.apk",
       "sha256": "1c3588fdafc6416b3c62d7e23010262e58437ce3be1eaa47d99f944e9d6a20bd",
       "size": 22128022
     },
     "universal": {
-      "url": "https://gitee.com/hcb0007/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-universal.apk",
+      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-universal.apk",
       "sha256": "40417b06bc7d321dce844ee5ab95eac3b0a8f7415aac950183b475efbb77117e",
       "size": 62155268
     }
