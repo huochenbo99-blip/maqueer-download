@@ -5,12 +5,12 @@
   "page_url": "https://github.com/huochenbo99-blip/maqueer-download/releases/tag/v1.4.2",
   "assets": {
     "arm64": {
-      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-arm64.apk",
+      "url": "https://ghproxy.net/https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-arm64.apk",
       "sha256": "1c3588fdafc6416b3c62d7e23010262e58437ce3be1eaa47d99f944e9d6a20bd",
       "size": 22128022
     },
     "universal": {
-      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-universal.apk",
+      "url": "https://ghproxy.net/https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-universal.apk",
       "sha256": "40417b06bc7d321dce844ee5ab95eac3b0a8f7415aac950183b475efbb77117e",
       "size": 62155268
     }
