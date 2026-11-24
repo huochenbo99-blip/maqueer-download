@@ -1,18 +1,18 @@
 {
-  "version": "1.4.2",
-  "date": "2026-11-24",
-  "notes": "## 麻雀儿 v1.4.2\n\n- 课表样式调整：删除课程块左侧色条\n- 课程名称加粗；长课程名按可用高度自动换行\n- 教室信息字号更小、透明度更低，弱化显示\n- 首页「今日课程」同步去掉左侧色条并弱化教室信息\n- 更新源仍优先 Gitee，国内下载速度快\n",
-  "page_url": "https://github.com/huochenbo99-blip/maqueer-download/releases/tag/v1.4.2",
+  "version": "1.5.0",
+  "date": "2026-11-25",
+  "notes": "# 麻雀儿 v1.5.0\n\n发布日期：2026-11-24\n\n## 桌面小插件\n\n- 只保留一个 **今日课程 2×2** 小插件：\n  - 显示今天全部课程\n  - 自动标出「上课中 / 下一节」（绿色高亮）\n  - 每节课显示课程名、时间、教室\n  - 点击小插件直接打开 App\n- 已移除 2×4、4×4 以及自定义样式入口，避免桌面小插件过多。\n- 鸿蒙 / iOS 暂不支持桌面小插件。\n\n## 校园卡账单\n\n- 修正收入记录显示：统一为绿色 `+¥xx.xx`。\n- 适配真实流水字段：`typeFrom`（1=收入，2=支出），兼容字符串/数字类型、负金额、缺失 type 的情况。\n- 支出仍为红色 `-¥xx.xx`。\n\n## iOS 自用版\n\n- 版本升级到 1.5.0（build 10）。\n- 补齐 Sideloadly 出包/安装步骤：`docs/sideloadly.md`。\n- 推荐用 GitHub Actions（`.github/workflows/ios-unsigned.yml`）或 Codemagic 云端出未签名 IPA。\n",
+  "page_url": "https://github.com/huochenbo99-blip/maqueer-download/releases/tag/v1.5.0",
   "assets": {
     "arm64": {
-      "url": "https://ghproxy.net/https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-arm64.apk",
-      "sha256": "1c3588fdafc6416b3c62d7e23010262e58437ce3be1eaa47d99f944e9d6a20bd",
-      "size": 22128022
+      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.5.0/maqueer-v1.5.0-arm64.apk",
+      "sha256": "b09e9a60c38e4c676fd3900c1a076e3b4a7136051c48bcf375e2bee906b41396",
+      "size": 22122057
     },
     "universal": {
-      "url": "https://ghproxy.net/https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.4.2/maqueer-v1.4.2-universal.apk",
-      "sha256": "40417b06bc7d321dce844ee5ab95eac3b0a8f7415aac950183b475efbb77117e",
-      "size": 62155268
+      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.5.0/maqueer-v1.5.0-universal.apk",
+      "sha256": "dcc511a759f388b2feae6476e568d3fa6ca4a7a94284a5e5c79509934385d068",
+      "size": 62214835
     }
   }
 }
