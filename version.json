@@ -5,12 +5,12 @@
   "page_url": "https://github.com/huochenbo99-blip/maqueer-download/releases/tag/v1.5.0",
   "assets": {
     "arm64": {
-      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.5.0/maqueer-v1.5.0-arm64.apk",
+      "url": "https://gitee.com/hcb0007/maqueer-download/releases/download/v1.5.0/maqueer-v1.5.0-arm64.apk",
       "sha256": "b09e9a60c38e4c676fd3900c1a076e3b4a7136051c48bcf375e2bee906b41396",
       "size": 22122057
     },
     "universal": {
-      "url": "https://github.com/huochenbo99-blip/maqueer-download/releases/download/v1.5.0/maqueer-v1.5.0-universal.apk",
+      "url": "https://gitee.com/hcb0007/maqueer-download/releases/download/v1.5.0/maqueer-v1.5.0-universal.apk",
       "sha256": "dcc511a759f388b2feae6476e568d3fa6ca4a7a94284a5e5c79509934385d068",
       "size": 62214835
     }
